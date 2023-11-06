@@ -12,16 +12,8 @@ Developed a Todo web application with the following requirements:
 
     🏠 Home - User
 
-      👀 View Items 
-
-        ➕ Add Item 
-
-        ➖ Remove Item
-
-    📤 Logout
- 
- 
--> '💻-Java, JSP, XML, Bootstrap, HTML, CSS' for coding.
+      
+ -> '💻-Java, JSP, XML, HTML, CSS' for coding.
 
 -> '🗃️-Database' for storing and retrieving data.
  
@@ -32,11 +24,9 @@ Tables used for each sections:
 
     1. "🗃️-Auth table with Admin and User"  for storing user data.
 
-    2. "🗃️-Todo Items table" for storing Items.
+   
  
-    
-
-Steps used and challenges faced to build this application:-
+ Steps used and challenges faced to build this application:-
 
 -----------------------------------------------------------
 
@@ -68,22 +58,5 @@ Credentials
       📧Email = "a" | 🔐Password = "a"
  
  
-Screenshots
 
------------
- 
-👤 Login and Register Page:
-
----------------------------
-
-![image](https://github.com/KarthigaGurusamy/JSP-JDBC/assets/145537707/db6689cb-b80c-4a2a-af9f-94e9dc913294)
- 
- 
-👀 View Items: 
-
--------------
-
-![image](https://github.com/KarthigaGurusamy/JSP-JDBC/assets/145537707/631bf3cd-82a1-453a-ae98-90098b281e8e)
- 
-  
  
